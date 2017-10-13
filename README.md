@@ -1,1 +1,1 @@
-# into_to_machinelearning
+# intro_to_machinelearning
